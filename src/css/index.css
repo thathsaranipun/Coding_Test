@@ -1,0 +1,15 @@
+:root {
+    --main-color: #fbf7f3;
+}
+
+body {
+    background-color: var(--main-color) !important;
+}
+
+.footer-section {
+    background-color: var(--main-color) !important;
+}
+
+.loader {
+    margin: auto;
+}
