@@ -13,12 +13,25 @@ https://dribbble.com/shots/22887103-Binar-Nature-Landing-Page
 ## Project Structure
 ![alt text](structure.png)
 
+## Project Structure
+![alt text](pc.jpeg)
+
 ## Installation
 
 To get started with the project, follow these steps:
 
-- Install dependencies : npm install
-- Run the development server : npm run dev
+Before installing, please make sure your machine has Node.js installed. If your machine doesn't have Node.js, please install it [https://nodejs.org/en/download/package-manager]
+
+Install dependencies : 
+
+```sh
+npm install
+```
+Run the development server : 
+```sh
+npm run dev
+```
+
 
 ## Technologies Used
 
