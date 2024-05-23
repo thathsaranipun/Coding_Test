@@ -13,7 +13,14 @@ https://dribbble.com/shots/22887103-Binar-Nature-Landing-Page
 ## Project Structure
 ![alt text](structure.png)
 
-## Final Output - PC 
+## Final Output 
+These files have a folder called 'screenshots.' This folder contains :
+- pc.jpeg  (Showing how the UI looks on a PC)
+- phone.jpeg (Showing how the UI looks on a phone)
+- tab.jpeg (Showing how the UI looks on a tablet)
+
+
+### Example Screenshot  
 ![alt text](screenshots/pc.jpeg)
 
 ## Installation
