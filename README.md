@@ -13,8 +13,8 @@ https://dribbble.com/shots/22887103-Binar-Nature-Landing-Page
 ## Project Structure
 ![alt text](structure.png)
 
-## Project Structure
-![alt text](pc.jpeg)
+## Final Output - PC 
+![alt text](screenshots/pc.jpeg)
 
 ## Installation
 
